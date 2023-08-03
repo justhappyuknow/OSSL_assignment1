@@ -93,7 +93,7 @@ void deleteNode(Node** head, int key)
 int main()
 {
 	Node* head = NULL;
-
+	cout<<"hello"<<endl;
 	push(&head, 2);
 	push(&head, 5);
 	push(&head, 7);
